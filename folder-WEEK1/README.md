@@ -74,8 +74,9 @@ Each program is a self-contained console application. Use the C# compiler or .NE
 
 ```bash
 dotnet run
+---
 
-## ✍️ Author 
-Ananya Upadhyay  
-B.Tech CSE | KIIT University
+## **✍️ Author**  
+**Ananya Upadhyay**  
+**B.Tech CSE | KIIT University**
 
