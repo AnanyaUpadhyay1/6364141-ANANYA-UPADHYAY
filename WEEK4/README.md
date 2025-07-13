@@ -1,7 +1,7 @@
 # 📘 Week 4 – ASP.NET Core 8.0 Web API Hands-on Submission
 
 **Name**: Ananya Upadhyay  
-**Registration Number**: 6364141  
+**Registration Number**: 6364141   
 **Week**: 4  
 **Topic**: ASP.NET Core 8.0 Web API
 
@@ -28,6 +28,7 @@ This repository contains my Week 4 hands-on submissions, including all 5 exercis
 ## 🧰 Technologies Used
 
 - **.NET 8.0**
+- **ASP.NET Core Web API**
 - **Swagger (OpenAPI)** for testing APIs
 - **Visual Studio 2022**
 
@@ -44,5 +45,43 @@ This repository contains my Week 4 hands-on submissions, including all 5 exercis
 ---
 
 ## 📁 Folder Structure
+
+WebApi_Handson1/
+├── Controllers/
+│ ├── FruitsController1.cs
+│ ├── FruitsController2.cs
+│ ├── FruitsController4.cs
+│ └── FruitsController5.cs
+├── WebApi_Handson1.sln
+├── README.md
+└── Screenshots/
+├── Task1_GET.png
+├── Task2_GET_Index.png
+├── Task3_POST.png
+├── Task4_PUT.png
+└── Task5_DELETE.png
+
+yaml
+Copy
+Edit
+
+> ✅ All screenshots are also embedded inside the Word document (`WEEK 4(CODE WITH SCREENSHOTS)_6364141.docx`).
+
+---
+
+## 📌 Notes
+
+- Data is stored in-memory using static lists.
+- No authentication or external database is used.
+- Routes are separated by controller name to avoid conflicts.
+- All APIs tested using Swagger UI.
+
+---
+
+## 🏁 Status
+
+✅ All 5 hands-on exercises completed, tested, and documented.
+
+---
 
 
