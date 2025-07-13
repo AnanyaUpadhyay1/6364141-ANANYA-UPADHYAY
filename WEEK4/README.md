@@ -2,7 +2,6 @@
 
 **Name**: Ananya Upadhyay  
 **Registration Number**: 6364141  
-**Program**: DN 4.0 – .NET Full Stack Engineer  
 **Week**: 4  
 **Topic**: ASP.NET Core 8.0 Web API
 
