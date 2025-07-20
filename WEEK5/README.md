@@ -4,7 +4,7 @@
 📅 **Week:** 5  
 🛠️ **Technologies:** ASP.NET Core 8.0, Web API, JWT, Microservices Architecture
 
----
+----
 
 ## 🚀 Project 1: `WebApi_Handson` – FruitsController6
 
